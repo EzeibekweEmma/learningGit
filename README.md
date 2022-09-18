@@ -1,9 +1,8 @@
 ## Creating a new repository using _GIT_ via *Visual Studio Code Terminal*
 
-#### Create a folder
-
-###### Run this on the terminal...
-#### git init
+##### 1. Create a folder
+Run this on the terminal...>
+git init
 
 #### than create a file (fileName.extension)
 
